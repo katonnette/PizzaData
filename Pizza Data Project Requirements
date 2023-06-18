@@ -1,0 +1,20 @@
+# PizzaData
+SQL and Excel Portfolio Project
+
+
+KPI"S Requirement
+Analyze key indicators for our pizza sales data to gain insight into our buisness performance. Specifically, looking to calculate the following metrics:
+ 1. Total Revenue: The sum of the total price of all pizz orders.
+ 2. average order value: the average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+ 3. total pizzas sold: The sum of the quantities of all pizzas sold.
+ 4. Total Orders: the total number of orders placed.
+ 5. Average pizzas per order: the average number of pizzas sold per order, calculated by dividing the total nuber of pizzas sold by the total number of order places.
+
+Chart Requirment
+1. Daily Trend for total orders: a bar chart that displays the daily trend of total orders over a specific time period.
+2. Hourly Trend for Total Orders: a line chart that illustrates the hourly trned of total orders througout the day. chart will allow us to identify the peak hours or perouds of high order activity.
+3. Percentage of Sales by Pizza Category: a pie chart that shows the distribution of sales across differemt pizza categories.
+4. Percentage of sales by pissa size: a pie chart
+5. Total pizzas sold by pizza category" a funnel chart that presents the total number of pizzas sold for each category.
+6. Top 5 best sellers by total pizza sold: a bar chart
+7. Bottom 5 worst sellers by total pizza sold: a bar chart
